@@ -7,8 +7,8 @@ SoftUni React Games
 - [x] Initialize git repo
 - [x] Add SofiUni practice server
 - [x] Add base vite react project as client
-- [ ] CleanUp client
-- [ ] Add project resources
+- [x] CleanUp client
+- [x] Add project resources
 - [ ] Separate html into components
 
 ## 2. React Router
