@@ -21,7 +21,10 @@ SoftUni React Games
 ## 3. Cteate Service Layer
 - [x] Servise layer architecture - disccusuion
 - [x] Abstract requester
-- [ ] Add games api
+- [x] Add games api
+- [x] Preseed practice server
 
 ## 4. Page Implementations
 - [ ] Game list
+- [ ] Details
+- [ ] Home

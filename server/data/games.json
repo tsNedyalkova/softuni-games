@@ -1,0 +1,17 @@
+{
+    "c9a88f80-fa92-40ac-b4fb-e64bfaab49db": {
+        "title": "Cover Fire",
+        "category": "Action",
+        "maxLevel": "5",
+        "imageUrl": "https://m.media-amazon.com/images/I/81n6tYqKmIL.jpg",
+        "summary": "Great game!",
+        "_id": "c9a88f80-fa92-40ac-b4fb-e64bfaab49db"
+    },
+    "6839e994-2faf-4e48-99c3-ce4fa1efd4a3": {
+        "title": "Eve Online",
+        "category": "Space Simulation",
+        "maxLevel": "8",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlV4idXyl_cA7eSZ0udd2HeL-GCqFOoEqgZQ&s",
+        "_id": "6839e994-2faf-4e48-99c3-ce4fa1efd4a3"
+    }
+}
