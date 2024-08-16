@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function GameList() {
   return (
     <section id="catalog-page">
