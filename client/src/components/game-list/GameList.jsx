@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
+
 import * as gamesApi from "../../api/games-api.js";
+
 import GameListItem from "./game-list-item/GameListItem.jsx";
 
 export default function GameList() {

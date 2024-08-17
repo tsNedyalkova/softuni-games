@@ -23,6 +23,12 @@ export const post = requester.bind(null, 'POST');
 export const put = requester.bind(null, 'PUT');
 export const del = requester.bind(null, 'DELETE');
 
+export default {
+    get,
+    post,
+    put,
+    del
+}
 /*
 This has the same functionality as the example above
 export const get = (url, data) => requester('GET', url, data);

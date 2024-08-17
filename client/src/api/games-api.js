@@ -9,3 +9,12 @@ export const getAll = async () => {
 
     return games;
 };
+
+export const getOne = (gameId) => requester.get(`${BASE_URL}/${gameId}`);
+
+const gamesAPI = {
+    getAll,               
+    getOne,
+}
+
+export default gamesAPI;

@@ -13,5 +13,12 @@
         "maxLevel": "8",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlV4idXyl_cA7eSZ0udd2HeL-GCqFOoEqgZQ&s",
         "_id": "6839e994-2faf-4e48-99c3-ce4fa1efd4a3"
+    },
+    "1092d8ab-c8bc-4f99-8a8f-afd3a3736c3f": {
+        "title": "Guild Wars 2",
+        "category": "Adventure",
+        "maxLevel": "5",
+        "imageUrl": "https://guildwars2.staticwars.com/wp-content/themes/guildwars2.com-live/img/og-img.f6214476.jpg",
+        "summary": "Guild Wars 2 is an award-winning online roleplaying game with fast-paced action combat, deep character customization, and no subscription fee required. Choose from an arsenal of professions and weapons, explore a vast open world, compete in PVP modes and more. Join over 16 million players now!"
     }
 }

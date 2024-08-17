@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       {/* <!-- Navigation --> */}
       <h1>
-        <Link class="home" to="/">
+        <Link className="home" to="/">
           GamesPlay
         </Link>
       </h1>
