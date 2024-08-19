@@ -45,11 +45,15 @@ SoftUni React Games
 - [ ] Comment Hooks
 
 ## 7. Authentication
-- [ ] Auth API
-  - [ ] Login  
-- [ ] Auth API Hook
-- [ ] Auth state & context
-- [ ] Login
+- [x] Auth API
+  - [x] Login  
+  - [ ] Register
+  - [ ] Logout
+  - [ ] Authorized Requests
+- [x] Auth API Hook
+- [x] Auth state & context
+- [x] Token management
+- [x] Login
 - [ ] Register
 - [ ] Logout
 
