@@ -38,3 +38,22 @@ SoftUni React Games
 - [x] Read comments from server
 - [x] Update comments in the component
 - [x] Clear form
+
+## 6. API Hooks
+- [ ] Form Hook
+- [ ] GameApi Hooks
+- [ ] Comment Hooks
+
+## 7. Authentication
+- [ ] Auth API  
+- [ ] Auth API Hook
+- [ ] Auth state & context
+- [ ] Login
+- [ ] Register
+- [ ] Logout
+
+## 8. UI Implementation
+- [ ] Dynamic Navigation
+- [ ] Create game
+  - [ ] Api function
+  - [ ] Create Hook
