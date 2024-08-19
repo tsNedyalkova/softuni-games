@@ -40,7 +40,7 @@ SoftUni React Games
 - [x] Clear form
 
 ## 6. API Hooks
-- [ ] Form Hook
+- [x] Form Hook
 - [ ] GameApi Hooks
 - [ ] Comment Hooks
 
@@ -57,3 +57,4 @@ SoftUni React Games
 - [ ] Create game
   - [ ] Api function
   - [ ] Create Hook
+- [ ] Latest games
