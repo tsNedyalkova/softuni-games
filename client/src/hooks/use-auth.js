@@ -1,0 +1,14 @@
+import { login } from "../api/auth-api";
+
+export const useLogin = () => {
+    const loginHndler = async (email, password) => {
+            const result = await login(email, password);
+
+            console.log(result);
+            
+            //TODO: update app state
+        
+    }
+
+    return loginHndler;
+};
