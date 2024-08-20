@@ -59,11 +59,14 @@ SoftUni React Games
 - [x] Register
   - [x] Add form validation
 - [ ] Logout
-- [ ] Authorized Requests
+- [x] Authorized Requests
 
 ## 8. UI Implementation
 - [ ] Dynamic Navigation
-- [ ] Create game
-  - [ ] Api function
-  - [ ] Create Hook
+- [x] Create game
+  - [x] Api function
+  - [x] Create Hook
 - [ ] Latest games
+
+## Notes
+Latest Games URL `http://localhost:3030/data/games?sortBy=_createdOn%20desc&pageSize=3`
