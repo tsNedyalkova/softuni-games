@@ -49,13 +49,17 @@ SoftUni React Games
   - [x] Login  
   - [ ] Register
   - [ ] Logout
-  - [ ] Authorized Requests
 - [x] Auth API Hook
+  - [x] Login
+  - [ ] Register
+  - [ ] Logout
 - [x] Auth state & context
 - [x] Token management
 - [x] Login
-- [ ] Register
+- [x] Register
+  - [x] Add form validation
 - [ ] Logout
+- [ ] Authorized Requests
 
 ## 8. UI Implementation
 - [ ] Dynamic Navigation
