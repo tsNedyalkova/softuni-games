@@ -68,5 +68,9 @@ SoftUni React Games
   - [x] Create Hook
 - [ ] Latest games
 
+## 9. Refactoring
+- [x] Extract auth state from App component
+
 ## Notes
-Latest Games URL `http://localhost:3030/data/games?sortBy=_createdOn%20desc&pageSize=3`
+  1. Latest Games URL `http://localhost:3030/data/games?sortBy=_createdOn%20desc&pageSize=3`
+  2. seedData - line 1341 in server.js
