@@ -1,4 +1,6 @@
-import { createContext, useContext, useState } from "react";
+import { createContext, useContext } from "react";
+
+import usePersistedSatate from "../hooks/use-persisted-state";
 
 export const AuthContext = createContext({
   userId: "",
@@ -9,7 +11,7 @@ export const AuthContext = createContext({
 });
 
 export function AuthContextProvider(props) {
-  const [authState, setAuthState] = useState({});
+  const [authState, setAuthState] = usePersistedSatate("auth", {});
 
   const changeAuthState = (state) => {
     //TODO: Quick solution, fix by implementing persisted authState!
@@ -35,4 +37,6 @@ export function AuthContextProvider(props) {
 
 export function useAuthContext() {
   const authData = useContext(AuthContext);
+
+  return authData;
 }

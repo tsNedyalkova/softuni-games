@@ -70,6 +70,7 @@ SoftUni React Games
 
 ## 9. Refactoring
 - [x] Extract auth state from App component
+- [x] Persist auth state
 
 ## Notes
   1. Latest Games URL `http://localhost:3030/data/games?sortBy=_createdOn%20desc&pageSize=3`
